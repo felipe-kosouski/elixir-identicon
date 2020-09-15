@@ -21,3 +21,5 @@ be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
 meu amigo Filipe tem muita paciencia a me explicar gitflow
 
+vou aprender os comandos do fluxo do gitflow no terminal
+
